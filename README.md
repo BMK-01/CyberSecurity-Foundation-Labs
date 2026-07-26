@@ -1,6 +1,6 @@
-# Cybersecurity Labs Portfolio
+# Cybersecurity Learning Journey and Labs Portfolio
 
-This repository documents my hands-on foundational cybersecurity learning journey.
+This repository documents my cybersecurity learning journey. From learing paths, to courses, to hands-on labs, to even youtube videos.
 
 ## Focus Areas
 - Linux fundamentals
@@ -10,7 +10,9 @@ This repository documents my hands-on foundational cybersecurity learning journe
 
 ## Platforms Used
 - TryHackMe
-- Labex
+- LabEx
+- Youtube
 
 ## Goal
+Discover how networking, the web, and real world cyber attacks all connect.
 Build practical cybersecurity skills and prepare for a junior SOC analyst role.
