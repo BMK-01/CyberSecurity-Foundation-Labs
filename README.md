@@ -1,5 +1,4 @@
-# Cybersecurity Learning Journey and Labs Portfolio
-
+# Cybersecurity-Learning-Portfolio
 This repository documents my cybersecurity learning journey. From learing paths, to courses, to hands-on labs, to even youtube videos.
 
 ## Focus Areas
