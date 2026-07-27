@@ -34,7 +34,7 @@ Computer fundamentals, operating systems, networking basics, and essential IT co
 ## 🟨 02 - Linux
 Linux command line, file systems, permissions, processes, Bash, and system administration fundamentals.
 
-## ⬜ 03 - Networking
+## ✅ 03 - Networking
 TCP/IP, OSI Model, DNS, DHCP, HTTP/HTTPS, routing, VPNs, ports, and network communication.
 
 ## ⬜ 04 - Cybersecurity Core
