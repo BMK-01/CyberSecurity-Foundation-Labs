@@ -1,14 +1,16 @@
 
-# What I learnt:
-- Introduction to Cybersecurity
-- Computer Fundamentals
-- Operating Systems Basics (Windows + Linux)
-- Software Basics
-- Networking Fundamentals (OSI Model, IP, DNS, etc.)
-- Basic IT concepts (clients, servers, VPNs, firewalls)
-- How the web works
-- Attacks and Defenses
+## Foundations
+Computer Basics and introduction into cybersecurity. Everything someone in IT should know.
+
+# Topics:
+- Operating Systems
+- Computer Hardware
+- Storage
+- Software
+- Processes
+- Filesystems
+- Internet Basics
 
 # Resources and Tools i used:
-TryHackMe: Pre-Security Learning Path
-Labex Linux Journey: GrassHopper Learning Path and Quick Start with Linux Course
+- TryHackMe: Pre-Security Learning Path
+- Online Articles
