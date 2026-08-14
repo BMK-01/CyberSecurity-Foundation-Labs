@@ -1,5 +1,5 @@
 
-# Foundations
+# Computer Foundations
 Computer Basics and introduction into cybersecurity. Everything someone in IT should know.
 
 ## Topics:
@@ -10,6 +10,7 @@ Computer Basics and introduction into cybersecurity. Everything someone in IT sh
 - Processes
 - Filesystems
 - Internet Basics
+- Binary & Hex
 
 ## Resources and Tools i used:
 - TryHackMe: Pre-Security Learning Path
