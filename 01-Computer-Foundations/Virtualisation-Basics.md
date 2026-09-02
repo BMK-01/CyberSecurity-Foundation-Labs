@@ -12,12 +12,20 @@ I learned why virtualization is such a critical foundation in modern IT, both fo
 - Learn how virtualization addresses hardware utilization and scalability challenges.
 - Understand the components of a lab machine.
 - Learn how containers have further optimized hardware utilization for applications.
-  
+- I also concluded that the key benefits of virtualization are:
+   1. Cost savings
+   2. Better resource usage
+   3. Safe testing for cyber security
+   4. Faster deployment
+   5. Flexibility
+   6. Portability
+   7. Scalability
+   8. Centralized Management
 
 ## What I Practiced (Hands-on labs)
-- Focussed on one of the two most common methods used: GET. 
-I approached this practically by examining the requests a browser sends when you navigate to a website. 
-Using the virutal lab machine provided in the TryHackMe room, i opened a website and inspected a GET request.
+Through hands-on practice, you experienced how virtualization simplifies and accelerates application deployment, providing a fast and secure way to run applications consistently.
+- I analyzed Lab Machine States and fixed a VM that had an error and it's apllication was peroforming its functions.
+- I created a new Lab Machine.
 
 
 ## New Terms / Key Concepts
@@ -26,6 +34,7 @@ Using the virutal lab machine provided in the TryHackMe room, i opened a website
 - Lab Machine (VM): A whole virtual computer inside the real one, with its own system.
 - Container: A small, isolated box for one app that shares the same system as the host.
 - Container Images: A pre-packed recipe/template used to create containers.
+- Network Ports: Special numbered entry points that apps use to talk over the network.
 
 
 ## Sources
