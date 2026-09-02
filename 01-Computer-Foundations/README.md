@@ -13,5 +13,5 @@ Computer Basics and introduction into cybersecurity. Everything someone in IT sh
 - Binary & Hex
 
 ## Resources and Tools i used:
-- TryHackMe: Pre-Security Learning Path
+- TryHackMe (Computer Fundamentals Module)
 - Online Articles
