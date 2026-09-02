@@ -1,6 +1,6 @@
 
 # Computer Foundations
-Computer Basics and introduction into cybersecurity. Everything someone in IT should know.
+A working mental model of what's actually happening inside a computer: how the OS manages hardware, how data gets stored and retrieved, how a running program becomes a a process and. Introduction into cybersecurity. The baseline every later phase assumes.
 
 ## Topics:
 - Operating Systems
