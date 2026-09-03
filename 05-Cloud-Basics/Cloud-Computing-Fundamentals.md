@@ -1,8 +1,10 @@
 # Cloud Computing Fundamentals
 
 ## Overview
+Cloud computing represents a growing share of modern IT infrastructure. IT is the delivery of on-demand computing services—including servers, storage, networking, and software—over the internet rather than managing physical local hardware. The cloud is built on top of technologies you already learned, like virtualization and containers. These enable running many applications efficiently on shared infrastructure and quickly creating or changing environments when needed.
 
 ## Security Relevance
+Cloud computing is critical in cybersecurity because moving infrastructure off-site shifts security roles by sharing responsibility, determining whether the provider or customer secures a given layer.
 
 ## What I learned (Learning Objectives)
 - What cloud computing is
@@ -37,5 +39,5 @@ Software you use online without installing anything, like Gmail or Zoom.
 Amazon’s cloud computers that you can quickly create, use, and resize whenever you need them.
 
 ## Sources
-- [TryHackMe (Cloud Computing Fundamentals Room)]([https://tryhackme.com/room/cloudcomputingfundamentals](https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a))
+- [TryHackMe (Cloud Computing Fundamentals Room)](https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
 - Online Articles
