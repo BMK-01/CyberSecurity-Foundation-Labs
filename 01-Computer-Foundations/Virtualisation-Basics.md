@@ -34,8 +34,3 @@ Through hands-on practice, I experienced how virtualization simplifies and accel
 - Container Images: A pre-packed recipe/template used to create containers.
 - Network Ports: Special numbered entry points that apps use to talk over the network.
 
-## Sources
--TryHackMe (Virtualisation Basics Room)
-- Online Articles
-- TryHackMe — Client-Server Basics (Room)
-https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a
