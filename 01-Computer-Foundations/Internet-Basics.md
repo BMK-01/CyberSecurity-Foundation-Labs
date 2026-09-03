@@ -12,12 +12,12 @@ interception, spoofing, and denial-of-service attacks.
 ## What I Learned (Learning Objectives)
 - The Client-Server model
 - Understood the following concepts on a surface level:
-  DNS
-  Client
-  Server
-  Port
-  Protocol
-  Network
+ * DNS
+ * Client
+ * Server
+ * Port
+ * Protocol
+ * Network
 
 ## What I Practiced (Hands-on labs)
 - Focussed on one of the two most common methods used: GET. 
@@ -31,8 +31,6 @@ Using the virutal lab machine provided in the TryHackMe room, i opened a website
 - GET
 
 ## Source
-- TryHackMe — Client-Server Basics (Room): https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a
+- [TryHackMe — Client-Server Basics Room](https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
 - Online Articles
 
-- TryHackMe — Client-Server Basics (Room)
-https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a
