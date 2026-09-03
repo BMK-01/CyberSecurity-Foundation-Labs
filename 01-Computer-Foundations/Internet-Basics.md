@@ -12,12 +12,12 @@ interception, spoofing, and denial-of-service attacks.
 ## What I Learned (Learning Objectives)
 - The Client-Server model
 - Understood the following concepts on a surface level:
- * DNS
- * Client
- * Server
- * Port
- * Protocol
- * Network
+  * DNS
+  * Client
+  * Server
+  * Port
+  * Protocol
+  * Network
 
 ## What I Practiced (Hands-on labs)
 - Focussed on one of the two most common methods used: GET. 
