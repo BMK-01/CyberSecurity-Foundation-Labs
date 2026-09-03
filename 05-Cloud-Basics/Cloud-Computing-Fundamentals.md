@@ -8,6 +8,7 @@ Cloud computing is critical in cybersecurity because moving infrastructure off-s
 
 ## What I learned (Learning Objectives)
 - What cloud computing is
+- Service models of cloud (IaaS, PaaS, SaaS)
 - Cloud Types (Private/Public/Hybrid)
 - Benefits of cloud computing
   * **Scalability:** Easily scale up or down as your application's needs change.
