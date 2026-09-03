@@ -1,11 +1,10 @@
 # VIrtualisation Basics
 
 ## Overview
-I learned why virtualization is such a critical foundation in modern IT, both for maximizing hardware efficiency and for safely isolating environments.
-
+Virtualization is a technology that abstracts physical computer hardware, allowing multiple operating systems to run simultaneously on a single physical machine. It relies on software called a hypervisor (such as VirtualBox or VMware) to allocate resources like CPU, RAM, and virtual disks from the host hardware to the individual virtual machines. Virtualization is such a critical foundation in modern IT, both for maximizing hardware efficiency and for safely isolating environments.
 
 ## Security Relevance
-
+Virtualization is a cornerstone of cybersecurity because it provides a safe, isolated environment to run vulnerable systems, test exploits, or analyse malware without breaking or risking your main computer.
 
 ## What I Learned (Learning Objectives)
 - Understand why managing applications on individual physical servers is inefficient.
@@ -23,10 +22,9 @@ I learned why virtualization is such a critical foundation in modern IT, both fo
    8. Centralized Management
 
 ## What I Practiced (Hands-on labs)
-Through hands-on practice, you experienced how virtualization simplifies and accelerates application deployment, providing a fast and secure way to run applications consistently.
-- I analyzed Lab Machine States and fixed a VM that had an error and it's apllication was peroforming its functions.
+Through hands-on practice, I experienced how virtualization simplifies and accelerates application deployment, providing a fast and secure way to run applications consistently.
+- I analysed Lab Machine States and fixed a VM that stopped running due to an error.
 - I created a new Lab Machine.
-
 
 ## New Terms / Key Concepts
 - Virtualization: Enables a single physical computer to act like multiple separate computers.
@@ -36,9 +34,8 @@ Through hands-on practice, you experienced how virtualization simplifies and acc
 - Container Images: A pre-packed recipe/template used to create containers.
 - Network Ports: Special numbered entry points that apps use to talk over the network.
 
-
 ## Sources
-TryHackMe (Virtualisation Basics Room)
-Online Articles
+-TryHackMe (Virtualisation Basics Room)
+- Online Articles
 - TryHackMe — Client-Server Basics (Room)
 https://tryhackme.com/room/clientserverbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a
