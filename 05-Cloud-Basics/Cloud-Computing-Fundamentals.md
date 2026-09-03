@@ -39,5 +39,5 @@ Software you use online without installing anything, like Gmail or Zoom.
 Amazon’s cloud computers that you can quickly create, use, and resize whenever you need them.
 
 ## Sources
-- [TryHackMe (Cloud Computing Fundamentals Room)](https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
+- [TryHackMe — Cloud Computing Fundamentals Room](https://tryhackme.com/room/cloudcomputingfundamentals?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
 - Online Articles
