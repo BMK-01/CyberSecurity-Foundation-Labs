@@ -12,15 +12,15 @@ Virtualization is a cornerstone of cybersecurity because it provides a safe, iso
 - Understand the components of a lab machine.
 - Learn how containers have further optimized hardware utilization for applications.
 - I also concluded that the key benefits of virtualization are:
-   1. Cost savings
-   2. Better resource usage
-   3. Safe testing for cyber security
-   4. Faster deployment
-   5. Flexibility
-   6. Portability
-   7. Scalability
-   8. Centralized Management
-   ## Sources
+  * Cost savings
+  * Better resource usage
+  * Safe testing for cyber security
+  * Faster deployment
+  * Flexibility
+  * Portability
+  * Scalability
+  * Centralized Management
+  * Sources
 
 ## What I Practiced (Hands-on labs)
 Through hands-on practice, I experienced how virtualization simplifies and accelerates application deployment, providing a fast and secure way to run applications consistently.
@@ -36,8 +36,5 @@ Through hands-on practice, I experienced how virtualization simplifies and accel
 - Network Ports: Special numbered entry points that apps use to talk over the network.
 
 ## Sources
-- TryHackMe (Virtualisation Basics Room): link
+- [TryHackMe —— Virtualisation Basics Room](https://tryhackme.com/room/virtualisationbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68c953756987851d0822866a)
 - Online Articles
-
-
-
