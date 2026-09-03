@@ -20,6 +20,7 @@ Virtualization is a cornerstone of cybersecurity because it provides a safe, iso
    6. Portability
    7. Scalability
    8. Centralized Management
+   ## Sources
 
 ## What I Practiced (Hands-on labs)
 Through hands-on practice, I experienced how virtualization simplifies and accelerates application deployment, providing a fast and secure way to run applications consistently.
@@ -33,4 +34,10 @@ Through hands-on practice, I experienced how virtualization simplifies and accel
 - Container: A small, isolated box for one app that shares the same system as the host.
 - Container Images: A pre-packed recipe/template used to create containers.
 - Network Ports: Special numbered entry points that apps use to talk over the network.
+
+## Sources
+- TryHackMe (Virtualisation Basics Room): link
+- Online Articles
+
+
 
