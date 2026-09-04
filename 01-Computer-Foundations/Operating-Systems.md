@@ -10,11 +10,11 @@ Understanding operating systems is essential in cybersecurity because it forms t
 - Defending a system requires navigating the OS directly to manage files, permissions, users, and remote access.
 
 ## What I Learned (Learning Objectives)
-- ### System Privilege Layers
+### System Privilege Layers
 I learnt that Inside a modern computer, different parts of the system operate at various permission levels. Some components can communicate directly with the hardware, while regular applications run in a safer, restricted environment. This separation is intentional and helps prevent conflicts and security issues.
 The two spaces are: The Kernel and User Space.
 
-- ### Operating System Duties
+### Operating System Duties
 I learnt the few core duties that every OS is responsible for a that allow your computer to run safely, efficiently, and predictably.
   * Process Management
   * Memory Management
@@ -22,7 +22,7 @@ I learnt the few core duties that every OS is responsible for a that allow your 
   * User Management
   * Device Management
 
-- ### Operating System Security
+### Operating System Security
 I understood the security foundation that the OS acts on. At a basic level, the operating system handles
   * **Authentication:** Verifies who you are through login passwords and biometrics
   * **Permissions:** Controls exactly what each user and app is allowed to read, write, or execute
