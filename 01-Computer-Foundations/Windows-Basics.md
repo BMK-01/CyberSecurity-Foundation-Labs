@@ -36,5 +36,5 @@ and managed security settings that make up a Windows environment.
 - **Windows Defender Firewall:** The firewall designed to help protect your system from unauthorized network traffic
 
 ## Source
-- [TryHackMe Windows Basics Room]([https://tryhackme.com/room/operatingsystemsintroduction?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a](https://tryhackme.com/room/windowsbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a))
+- [TryHackMe—Windows Basics Room](https://tryhackme.com/room/windowsbasics?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
 - Online Articles
