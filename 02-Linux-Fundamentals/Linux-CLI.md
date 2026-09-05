@@ -27,4 +27,5 @@ On a virtual lab machine on TryHackMe, I posed as a new IT Support Engineer hire
 
   
 ## Source
-- [TryHackMe — Linux CLI Basics Room](https://tryhackme.com/room/linuxclibasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68c953756987851d0822866a)- Online Articles
+- [TryHackMe — Linux CLI Basics Room](https://tryhackme.com/room/linuxclibasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68c953756987851d0822866a)
+- Online Articles
