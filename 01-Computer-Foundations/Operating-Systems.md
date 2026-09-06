@@ -30,7 +30,8 @@ I understood the security foundation that the OS acts on. At a basic level, the 
   * **System Protection:** Safeguards critical system files and settings from unauthorized changes
 
 ## What I Practiced (Hands-on labs)
-After I got a solid understanding of what an operating system is and its main duties, I got hands-on with a Virtual Lab Machine and went through the operating systems thoroughly
+1. After I got a solid understanding of what an operating system is and its main duties, I got hands-on with a Virtual Lab Machine and went through the operating systems thoroughly
+2. I practiced operating system security concepts by gaining unauthorized access to a remote Linux system.
 
 ## New Terms / Key Concepts
 - ### Operating system (OS)
@@ -44,7 +45,15 @@ After I got a solid understanding of what an operating system is and its main du
 - ### Command-line interface (CLI)
   A text-based interface where you type commands to control the system with precision and speed.
 
+2. - **SSH Authentication:** Understanding how to securely log into a remote system using SSH with username and password.
+   - **User Privilege Escalation:** Techniques to switch users and gain higher privileges using the su command.
+   - **Password Guessing:** The importance of common password lists in attempting to gain access to user accounts.
+   - Command History: Utilizing the history command to find previously executed commands that may contain sensitive information, like passwords.
+   - **File Interaction:** Basic file manipulation commands (ls, cat) to explore the system and read files, including protected files as root.
+   - **Security Principles:** Understanding the concepts of confidentiality, integrity, and availability in the context of operating system security.
+
 
 ## Source
 - [TryHackMe—Operating Systems: Introduction Room](https://tryhackme.com/room/operatingsystemsintroduction?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
+- [TryHackMe—Operating System Security Room](https://tryhackme.com/room/operatingsystemsecurity?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=68c953756987851d0822866a)
 - Online Articles
